@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">Currently learning: WebHooks and Notification system<br>Current project: AnimeTracker</h6>
+<h6 align="left">Currently learning: Multi-model and RAG based AI intergration <br>Current project: Modula-AI</h6>
 
 ###
 
